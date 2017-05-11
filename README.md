@@ -2,4 +2,4 @@
 
 Wiki: https://github.com/bambinella/WhileyIdeas/wiki
 
-https://github.com/Whiley
+Main compiler: https://github.com/Whiley
